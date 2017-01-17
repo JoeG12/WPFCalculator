@@ -1,0 +1,14 @@
+C:\Users\Joegi\Desktop\WPF-Calculator-master\Calculator\bin\Release\Calculator.exe
+C:\Users\Joegi\Desktop\WPF-Calculator-master\Calculator\bin\Release\Calculator.pdb
+C:\Users\Joegi\Desktop\WPF-Calculator-master\Calculator\obj\x86\Release\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Joegi\Desktop\WPF-Calculator-master\Calculator\obj\x86\Release\MainWindow.baml
+C:\Users\Joegi\Desktop\WPF-Calculator-master\Calculator\obj\x86\Release\MainWindow.g.cs
+C:\Users\Joegi\Desktop\WPF-Calculator-master\Calculator\obj\x86\Release\App.g.cs
+C:\Users\Joegi\Desktop\WPF-Calculator-master\Calculator\obj\x86\Release\Calculator_MarkupCompile.cache
+C:\Users\Joegi\Desktop\WPF-Calculator-master\Calculator\obj\x86\Release\Calculator.g.resources
+C:\Users\Joegi\Desktop\WPF-Calculator-master\Calculator\obj\x86\Release\Calculator.Properties.Resources.resources
+C:\Users\Joegi\Desktop\WPF-Calculator-master\Calculator\obj\x86\Release\Calculator.csproj.GenerateResource.Cache
+C:\Users\Joegi\Desktop\WPF-Calculator-master\Calculator\obj\x86\Release\Calculator.exe
+C:\Users\Joegi\Desktop\WPF-Calculator-master\Calculator\obj\x86\Release\Calculator.pdb
+C:\Users\Joegi\Desktop\Calculator (WPF)\Calculator\obj\x86\Release\Calculator.exe
+C:\Users\Joegi\Desktop\Calculator (WPF)\Calculator\obj\x86\Release\Calculator.pdb
